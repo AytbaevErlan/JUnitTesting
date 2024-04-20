@@ -17,7 +17,7 @@ public class BankAccountTest {
     }
 
     @Test
-    @DisplayName("Deposit 400 successfully")
+    @DisplayName("Deposit 500 successfully")
     public void testDeposit(){
         BankAccount bankAccount = new BankAccount(400, 0);
         bankAccount.deposit(500);
