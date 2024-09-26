@@ -1,5 +1,6 @@
 package org.example.annotations;
 
+
 public abstract class Parent {
     public  void someMethod(){
 

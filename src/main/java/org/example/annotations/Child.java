@@ -1,5 +1,6 @@
 package org.example.annotations;
 
+
 public class Child extends Parent{
 
     @Override
